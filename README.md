@@ -25,11 +25,22 @@ Medicine Tracker helps users maintain a consistent medicine routine with reminde
 
 ## 🚀 Getting Started
 
-1. Download the Medicine Tracker APK.
-2. Install it on your Android device.
-3. Open the application.
-4. Add your medicines and reminder times.
-5. Mark each medicine as Taken, Missed or Delete.
+### 📥 How to Download the APK
+
+1. Open the [Medicine Tracker GitHub Actions page](https://github.com/CodeCrusader07/Medicine-Tracker/actions/runs/45084254820).
+2. Go to the **Artifacts** section at the bottom of the workflow run page.
+3. Find the generated APK artifact.
+4. Click on the artifact name to download it as a ZIP file.
+5. Extract the downloaded ZIP file.
+6. Open the extracted folder and install the APK on your Android device.
+
+### 📱 How to Use the App
+
+1. Open the Medicine Tracker application.
+2. Add your medicines and reminder times.
+3. Set your daily medication schedule.
+4. Mark each medicine as **Taken** or **Missed**.
+5. Check your previous medicine records whenever needed.
 
 ## 🎯 Purpose
 
